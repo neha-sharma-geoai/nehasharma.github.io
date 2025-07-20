@@ -317,7 +317,7 @@
                         "name": "MS in Data Science Thesis Project - Fine-Grained Roof Type Classification & Multimodal Multitasking Building Detection & Height Estimation Using High Resolution Satellite Imagery",
                         "startDate": "2023-01-01",
                         "endDate": "2023-08-30",
-                        "preview":"9781032586113.webp",
+                        "image":"9781032586113.webp",
                         "highlights": [
                           "Classification of 12 roof type classes",
                           "Custom geospatial dataloader using PyTorch and Rasterio",
