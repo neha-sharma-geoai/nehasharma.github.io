@@ -4,8 +4,8 @@ title: Naya Raipur Legislative Assembly Project Walkthrough
 description: Walkthrough Projects
 img: https://www.youtube.com/watch?v=3SY8WrveTSo
 redirect: https://www.youtube.com/watch?v=3SY8WrveTSo
-importance: 3
-category: Walkthrough
+importance: 1
+category: Walkthroughs
 ---
 
 Every project has a beautiful feature showcase page.

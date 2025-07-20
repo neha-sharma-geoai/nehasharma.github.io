@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Lakeview Apartments Project Walkthrough
+description: Walkthrough Projects
+img: https://www.youtube.com/watch?v=57e3ZrM7w2U
+redirect: https://www.youtube.com/watch?v=57e3ZrM7w2U
 importance: 2
-category: work
-giscus_comments: true
+category: Walkthroughs
 ---
 
 Every project has a beautiful feature showcase page.
