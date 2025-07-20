@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - neha-sharma-geoai
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - neha-sharma-geoai/arcgis-python-api-neha
   - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
