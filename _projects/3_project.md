@@ -5,7 +5,7 @@ description: Walkthrough Projects
 img: assets/img/7.jpg
 redirect: https://www.youtube.com/watch?v=3SY8WrveTSo
 importance: 3
-category: work
+category: Walkthrough
 ---
 
 Every project has a beautiful feature showcase page.
