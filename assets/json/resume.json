@@ -57,6 +57,28 @@
                           "grade": "75.4%"
                         }
                       ],
+    "national exams": [
+                        {
+                          "exam": "GATE 2022",
+                          "domain": "Geomatics Engineering",
+                          "organizer": "IIT Kharagpur",
+                          "rank": "AIR 171"
+                        },
+                        {
+                          "exam": "National JRF Eligibility Test (JET) 2020",
+                          "organizer": "Indian Institute of Remote Sensing (ISRO)",
+                          "note": "First-time exam for Geomatics scholars",
+                          "date": "21st March 2021"
+                        },
+                        {
+                          "exam": "CEPT Geomatics PG Entrance Exam 2018",
+                          "rank": "AIR 2"
+                        },
+                        {
+                          "exam": "JEE MAINS 2013",
+                          "papers": ["Paper 1", "Paper 2"]
+                        }
+                      ],
   "work": [
                     {
                       "name": "ESRI Inc.",
@@ -295,6 +317,7 @@
                         "name": "MS in Data Science Thesis Project - Fine-Grained Roof Type Classification & Multimodal Multitasking Building Detection & Height Estimation Using High Resolution Satellite Imagery",
                         "startDate": "2023-01-01",
                         "endDate": "2023-08-30",
+                        "preview":"9781032586113.webp",
                         "highlights": [
                           "Classification of 12 roof type classes",
                           "Custom geospatial dataloader using PyTorch and Rasterio",
