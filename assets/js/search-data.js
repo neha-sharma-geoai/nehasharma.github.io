@@ -32,14 +32,14 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "Summary",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Neha Sharma",
+          description: "Download resume by clicking on the button on the right.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
