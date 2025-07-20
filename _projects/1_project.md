@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: true
+title: Coffee Kiosk Project Walkthrough
+description: Walkthrough Projects
+img: https://www.youtube.com/watch?v=gXdHzLD0m34
+redirect: https://www.youtube.com/watch?v=gXdHzLD0m34
+importance: 3
+category: Walkthroughs
 ---
 
 Every project has a beautiful feature showcase page.
@@ -19,6 +19,13 @@ To give your project a background in the portfolio page, just add the img tag to
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
+    layout: page
+    title: project 1
+    description: with background image
+    img: assets/img/12.jpg
+    importance: 1
+    category: work
+    related_publications: true
     ---
 
 <div class="row">
