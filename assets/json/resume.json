@@ -5,7 +5,7 @@
     "image": "",
     "email": "neha845sharma@yahoo.com",
     "phone": "",
-    "LinkedIn": "https://www.linkedin.com/in/neha-sharma-s/",
+    "url": "https://www.linkedin.com/in/neha-sharma-s/",
     "summary": "GeoAI, Remote Sensing Enthusiast | Product Engineer II - Geospatial Data Science at Esri GeoAI R&D Center | Book Editor & Author - Smart Buildings & Cities with Remote Sensing and GIS",
     "location": {
       "address": "New Delhi",
@@ -318,6 +318,8 @@
                         "startDate": "2023-01-01",
                         "endDate": "2023-08-30",
                         "image":"9781032586113.webp",
+                        "organization": "Liverpool John Moores University",
+                        "location": "Liverpool, UK",
                         "highlights": [
                           "Classification of 12 roof type classes",
                           "Custom geospatial dataloader using PyTorch and Rasterio",
@@ -332,6 +334,7 @@
                         "degree": "MTech in Geomatics Thesis Project",
                         "location": "Ahmedabad, India",
                         "organization": "CEPT University",
+                        "url":"https://repository.cept.ac.in/items/bd12366d-50ec-41a4-8bdb-dc010cd081b9",
                         "startDate": "2020-01-01",
                         "endDate": "2020-04-30",
                         "name": "MTech in Geomatics Thesis Project - Urban Air Quality Analysis of Ahmedabad District – A Spatio-Temporal Assessment",
