@@ -560,9 +560,9 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-naya-raipur-legislative-assembly-project-walkthrough",
+          title: 'Naya Raipur Legislative Assembly Project Walkthrough',
+          description: "Walkthrough Projects",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
