@@ -2,7 +2,7 @@
 layout: page
 title: Lakeview Apartments Project Walkthrough
 description: Walkthrough Projects
-img: https://www.youtube.com/watch?v=57e3ZrM7w2U
+img: assets/img/LApartment.png
 redirect: https://www.youtube.com/watch?v=57e3ZrM7w2U
 importance: 2
 category: Walkthroughs

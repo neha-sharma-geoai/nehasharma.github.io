@@ -2,7 +2,7 @@
 layout: page
 title: Coffee Kiosk Project Walkthrough
 description: Walkthrough Projects
-img: https://www.youtube.com/watch?v=gXdHzLD0m34
+img: assets/img/CK.png
 redirect: https://www.youtube.com/watch?v=gXdHzLD0m34
 importance: 3
 category: Walkthroughs
