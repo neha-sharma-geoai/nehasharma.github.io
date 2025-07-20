@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Naya Raipur Legislative Assembly Project Walkthrough
+description: Walkthrough Projects
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://www.youtube.com/watch?v=3SY8WrveTSo
 importance: 3
 category: work
 ---
