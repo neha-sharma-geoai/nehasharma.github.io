@@ -5,4 +5,6 @@ repo_description_lines_max: 2
 
 github_repos:
   - neha-sharma-geoai/arcgis-python-api-neha
+  - neha-sharma-geoai/neha-sharma-geoai.github.io
+  - neha-sharma-geoai/AQI
   - jekyll/jekyll
