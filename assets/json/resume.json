@@ -351,9 +351,16 @@
                         "organization": "MA-NIT, Bhopal",
                         "location": "Bhopal, India",
                         "name": "Bachelors in Architecture Thesis Project - Naya Raipur Legislative Assembly",
-                        "description": "Based on GRIHA Rating System",
+                        "description": "A comprehensive architectural design project for the Naya Raipur Legislative Assembly, focusing on sustainable architecture and urban planning principles. The project involved detailed site analysis, conceptual design, and architectural detailing. The design emphasized the integration of modern architectural practices with the cultural and environmental context of Naya Raipur. The project was presented as a part of the Bachelors in Architecture program at Maulana Azad National Institute of Technology (MANIT), Bhopal.",
                         "startDate": "2017-06-01",
-                        "endDate": "2017-11-30"
+                        "endDate": "2017-11-30",
+                        "url": "https://www.youtube.com/watch?v=3SY8WrveTSo",
+                        "highlights": [
+                          "Designed a sustainable legislative assembly building",
+                          "Incorporated local architectural styles and materials",
+                          "Emphasized energy efficiency and environmental sustainability",
+                          "Presented detailed architectural plans and models"
+                        ]
                       },
                       {
                         "degree": "",
@@ -361,7 +368,12 @@
                         "location": "Bhopal, India",
                         "name": "Bachelors in Architecture Dissertation - GRIHA Based Green Rating of Buildings",
                         "startDate": "2017-01-01",
-                        "endDate": "2017-04-30"
+                        "endDate": "2017-04-30",
+                        "description": "A study of GRIHA rating system and its application in green building design",
+                        "highlights": [
+                          "Analyzed GRIHA rating system",
+                          "Assessed green building design principles"
+                        ]     
                       }
                     ]
 }
