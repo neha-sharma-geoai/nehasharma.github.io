@@ -2,7 +2,7 @@
 layout: page
 title: Urban Air Quality Analysis for Ahmedabad – A Spatio Temporal Assessment
 description: MTech Geomatics Thesis
-img: assets/img/NRLA.png
+img: assets/img/AQ.png
 redirect: https://repository.cept.ac.in/items/bd12366d-50ec-41a4-8bdb-dc010cd081b9
 importance: 2
 category: Thesis

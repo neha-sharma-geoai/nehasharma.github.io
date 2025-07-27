@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+title: Spatial Livability Index Model (SLIM) for Rajkot Municipal Corporation
+description: GIS for Governance
+img: assets/img/GIS2.png
+redirect: https://portfolio.cept.ac.in/2024/M/ft/gis-for-governance-ge4000-spring-2019/gis-for-governance-liveability-index-spring-2019-pg180592
 importance: 2
-category: work
-giscus_comments: true
+category: Academics
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

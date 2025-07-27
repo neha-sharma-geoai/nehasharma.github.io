@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
+title: Assessment of Cropping Patterns in Districts of Gujarat
+description: GIS Foundation
+img: assets/img/GIS1.png
+redirect: https://portfolio.cept.ac.in/2024/M/ft/geographic-information-science-foundation-studio-5757-monsoon-2018/assessment-of-crops-of-gujarat-monsoon-2018-pg180592
+importance: 3
+category: Academic
 related_publications: true
 ---
 
