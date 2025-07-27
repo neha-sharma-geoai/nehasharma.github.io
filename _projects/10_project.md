@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Fine-Grained Roof Type Classification & Multimodal Multitasking Building Detection & Height Estimation Using High Resolution Satellite Imagery
-description: MS Data Science Thesis
-img: assets\img\multi_task_outputs_rgbsar.gif
-redirect: https://link.springer.com/book/9789819677481#overview
+title: Ship Detection (RGB) Model
+description: Deep Learning Pretrained Model
+img: assets/img/P1.png
+redirect: https://www.arcgis.com/home/item.html?id=2fd653cd9de446ccbab34f69e9e70d81
 importance: 1
-category: Thesis
+category: Professional
 ---
 
 Every project has a beautiful feature showcase page.
