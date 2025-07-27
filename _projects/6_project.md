@@ -2,7 +2,7 @@
 layout: page
 title: Fine-Grained Roof Type Classification & Multimodal Multitasking Building Detection & Height Estimation Using High Resolution Satellite Imagery
 description: MS Data Science Thesis
-img: assets\img\publication_preview\multi_task_outputs_rgbsar.mp4
+img: assets\img\publication_preview\multi_task_outputs_rgbsar.gif
 redirect: https://link.springer.com/book/9789819677481#overview
 importance: 1
 category: Thesis

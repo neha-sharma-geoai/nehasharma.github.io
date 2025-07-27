@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Predicting Urban Sprawl of Industrial City – Surat
+description: Geospatial Analytics and Modelling
+img: assets/img/GIS3.png
+redirect: https://portfolio.cept.ac.in/2019/M/ft/geospatial-analytics-and-modelling-ge4001-monsoon-2019/urban-sprawl-prediction-for-the-industrial-city-surat-monsoon-2019-pg180592
+importance: 1
+category: Academics
 ---
 
 Every project has a beautiful feature showcase page.
