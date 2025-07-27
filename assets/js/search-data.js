@@ -580,8 +580,8 @@ ninja.data = [{
           description: "MTech Geomatics Thesis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-fine-grained-roof-type-classification-amp-multimodal-multitasking-building-detection-amp-height-estimation-using-high-resolution-satellite-imagery",
-          title: 'Fine-Grained Roof Type Classification &amp;amp; Multimodal Multitasking Building Detection &amp;amp; Height Estimation Using...',
+            },},{id: "projects-fine-grained-roof-type-classification-amp-multimodal-multitasking-building-detection-amp-height-estimation",
+          title: 'Fine-Grained Roof Type Classification &amp;amp; Multimodal Multitasking Building Detection &amp;amp; Height Estimation',
           description: "MS Data Science Thesis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
