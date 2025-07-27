@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>GeoAI and Remote Sensing Enthusiast</a>. <br><p>New Delhi. neha845sharma@yahoo.com.</p>
+subtitle: <a href='#'>Namaste! Om Ganeshaay Namah!</a>. <br><p>I am GeoAI and Remote Sensing Enthusiast</p>
 
 profile:
   align: right
-  image: pic_2.jpg
+  image: pic_3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Hi! That's me, nice to meet you. :)</p>
