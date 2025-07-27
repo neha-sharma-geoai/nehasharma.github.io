@@ -590,9 +590,9 @@ ninja.data = [{
           description: "GIS for Governance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-predicting-urban-sprawl-of-industrial-city-surat",
+          title: 'Predicting Urban Sprawl of Industrial City – Surat',
+          description: "Geospatial Analytics and Modelling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
