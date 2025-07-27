@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+title: My first book got published - Smart Buildings and Cities with Remote Sensing and GIS!
+date: 2025-04-02 16:11:00-0400
+inline: true
 related_posts: false
 ---
 
