@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Namaste! Om Ganeshaay Namah!</a>. <br><p>I am GeoAI and Remote Sensing Enthusiast</p>
+subtitle: <a href='#'>Namaste! Om Ganpataye Namah!</a>. <br><p><i>I am observing Earth through GeoAI — decoding pixels, revealing patterns, driving purpose.</i></p>
 
 profile:
   align: right
