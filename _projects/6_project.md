@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Fine-Grained Roof Type Classification & Multimodal Multitasking Building Detection & Height Estimation Using High Resolution Satellite Imagery
+description: MS Data Science Thesis
+img: assets\img\publication_preview\978-981-96-7748-1.png
+redirect: https://link.springer.com/book/9789819677481#overview
+importance: 1
+category: Thesis
 ---
 
 Every project has a beautiful feature showcase page.

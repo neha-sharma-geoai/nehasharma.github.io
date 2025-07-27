@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Naya Raipur Legislative Assembly Project
+description: Undergraduate Thesis
+img: assets/img/NRLA.png
+redirect: https://www.youtube.com/watch?v=3SY8WrveTSo
 importance: 3
-category: fun
+category: Thesis
 ---
 
 Every project has a beautiful feature showcase page.
