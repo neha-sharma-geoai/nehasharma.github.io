@@ -550,7 +550,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-coffee-kiosk-project-walkthrough",
+          section: "News",},{id: "projects-ship-detection-rgb-model",
+          title: 'Ship Detection (RGB) Model',
+          description: "Deep Learning Pretrained Model",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-coffee-kiosk-project-walkthrough",
           title: 'Coffee Kiosk Project Walkthrough',
           description: "Walkthrough Projects",
           section: "Projects",handler: () => {
