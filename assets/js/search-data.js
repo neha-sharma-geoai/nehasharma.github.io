@@ -565,19 +565,19 @@ ninja.data = [{
           description: "Walkthrough Projects",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-naya-raipur-legislative-assembly-project",
+          title: 'Naya Raipur Legislative Assembly Project',
+          description: "Undergraduate Thesis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-urban-air-quality-analysis-for-ahmedabad-a-spatio-temporal-assessment",
+          title: 'Urban Air Quality Analysis for Ahmedabad – A Spatio Temporal Assessment',
+          description: "MTech Geomatics Thesis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-fine-grained-roof-type-classification-amp-multimodal-multitasking-building-detection-amp-height-estimation-using-high-resolution-satellite-imagery",
+          title: 'Fine-Grained Roof Type Classification &amp;amp; Multimodal Multitasking Building Detection &amp;amp; Height Estimation Using...',
+          description: "MS Data Science Thesis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
