@@ -5,7 +5,7 @@ description: Geospatial Analytics and Modelling
 img: assets/img/GIS3.png
 redirect: https://portfolio.cept.ac.in/2019/M/ft/geospatial-analytics-and-modelling-ge4001-monsoon-2019/urban-sprawl-prediction-for-the-industrial-city-surat-monsoon-2019-pg180592
 importance: 1
-category: Academics
+category: Academic
 ---
 
 Every project has a beautiful feature showcase page.

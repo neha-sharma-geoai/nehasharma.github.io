@@ -5,7 +5,7 @@ description: GIS for Governance
 img: assets/img/GIS2.png
 redirect: https://portfolio.cept.ac.in/2024/M/ft/gis-for-governance-ge4000-spring-2019/gis-for-governance-liveability-index-spring-2019-pg180592
 importance: 2
-category: Academics
+category: Academic
 giscus_comments: false
 ---
 
