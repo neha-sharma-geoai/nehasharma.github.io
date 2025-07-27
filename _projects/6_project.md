@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Fine-Grained Roof Type Classification & Multimodal Multitasking Building Detection & Height Estimation
-description: MS Data Science Thesis
+description: MS Data Science Thesis (GeoAI)
 img: assets\img\T1.png
 redirect: https://link.springer.com/book/9789819677481#overview
 importance: 1
 category: Thesis
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
