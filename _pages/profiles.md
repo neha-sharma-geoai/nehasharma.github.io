@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /courses/
 title: courses
-description: courses I'm involved in
+description: We conduct these courses in online and offline modes. For more information, contact - neha845sharma@yahoo.com
 nav: true
 nav_order: 7
 

@@ -29,3 +29,4 @@ Following the success of GAP Level 1, the Level 2 training program delves deeper
     <tr><td>8</td><td>Applications of Artificial Intelligence (AI) and Machine Learning (ML) in Spatial Data Science</td></tr>
   </tbody>
 </table>
+
