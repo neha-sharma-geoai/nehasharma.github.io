@@ -7,60 +7,47 @@ nav: true
 nav_order: 6
 ---
 
-<section class="p-6 bg-white">
-  <h2 class="text-2xl font-bold mb-4">🏆 Awards & Achievements</h2>
+🏆 Awards, Scholarships & Achievements
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+🥇 Outstanding Achiever – MS Data Science
+<div style="font-size: 0.95em;"> 🏛️ Liverpool John Moores University, UK 📅 May 2025 📌 For exceptional performance in the Data Science program. </div>
+💡 Winner – MindFest 2022 Hackathon
+<div style="font-size: 0.95em;"> 🏢 Mindtree, Bangalore 📅 July 2022 🎖️ Recognized by CEO Mr. Debashish Chatterjee for innovation on ServiceNow Platform. </div>
+🏅 GICEA Gold Medal – Academic Excellence
+<div style="font-size: 0.95em;"> 🏛️ Gujarat Institute of Civil Engineers and Architects (GICEA) 📅 April 2022 🌟 Received from Shri Surendra Patel (Ex-MP) for M.Tech in Geomatics performance. </div>
+🌍 Game Changer Team Award – GeoAI Project
+<div style="font-size: 0.95em;"> 🧠 Mindtree NxT Hackathon 📅 December 2021 💡 Innovative GeoAI solution for urban cleanliness. </div>
+🏆 Academic Excellence Award
+<div style="font-size: 0.95em;"> 🏫 CEPT University 📌 Best academic record in M.Tech Geomatics. </div>
+🎓 Best Capstone Project Award
+<div style="font-size: 0.95em;"> 🗂️ For thesis project (2018–2020), M.Tech Geomatics 🏛️ CEPT University </div>
+🌟 Distinguished Student Award
+<div style="font-size: 0.95em;"> 🏫 CEPT University ✨ For holistic excellence in academics & extracurriculars (M.Tech Geomatics) </div>
+🎙️ Geomatics Program Ambassador
+<div style="font-size: 0.95em;"> 📌 First ever Ambassador of CEPT University’s Geomatics Program 📅 Year 2020 </div>
+🧭 Best Studio Portfolio
+<div style="font-size: 0.95em;"> 📌 GIS – Foundation Studio, Monsoon Semester 2018 🏆 Awarded on December 11, 2018 🏫 CEPT University </div>
+📜 Merit Scholarship (50% Tuition Waiver)
+<div style="font-size: 0.95em;"> 🏫 CEPT University 🎯 AIR-2 in PG Entrance Exam for Geomatics – May 2018 </div>
+🏅 School & Early Awards
+<div style="font-size: 0.95em;"> 🏫 Best Student Award – Carmel Convent School, 2012 🎨 Poster Competition Winner – 2007 🏃‍♀️ 3-legged Race Runner-Up – 2004 🌿 Landscaping Competition Runner-Up – 2003 </div> </div>
 
-  <!-- Academic Awards -->
-  <div class="grid md:grid-cols-2 gap-4">
-    
-    <!-- Card 1 -->
-    <div class="bg-gradient-to-br from-blue-100 to-blue-50 p-4 rounded-xl shadow-md border">
-      <h3 class="text-lg font-semibold">🎓 Outstanding Achiever – MS Data Science</h3>
-      <p class="text-sm text-gray-700">Liverpool John Moores University, 2025</p>
-    </div>
+🧪 National Exams Qualified
+<div style="display: flex; flex-direction: column; gap: 15px; font-size: 0.95em;">
+📘 GATE 2022 – Geomatics Engineering
+📍 Organized by IIT Kharagpur
+🎯 All India Rank (AIR): 171
 
-    <!-- Card 2 -->
-    <div class="bg-gradient-to-br from-green-100 to-green-50 p-4 rounded-xl shadow-md border">
-      <h3 class="text-lg font-semibold">🌐 Hackathon Winner – MindFest 2022</h3>
-      <p class="text-sm text-gray-700">National Hackathon on ServiceNow, Bangalore</p>
-    </div>
+🛰️ JRF Eligibility Test (JET) – 2021
+📍 Conducted by IIRS (ISRO), Government of India
+📆 March 21, 2021
+🧪 First-ever national test for Geomatics scholars
 
-    <!-- Card 3 -->
-    <div class="bg-gradient-to-br from-yellow-100 to-yellow-50 p-4 rounded-xl shadow-md border">
-      <h3 class="text-lg font-semibold">🏅 2nd Prize – Designathon 2022</h3>
-      <p class="text-sm text-gray-700">CEPT University (AI + Design)</p>
-    </div>
+🧭 CEPT University Entrance Exam – 2018
+📌 Geomatics PG Program
+🎯 Secured AIR: 2
 
-    <!-- Card 4 -->
-    <div class="bg-gradient-to-br from-pink-100 to-pink-50 p-4 rounded-xl shadow-md border">
-      <h3 class="text-lg font-semibold">🎖️ 1st Prize – GeoAI Hackathon</h3>
-      <p class="text-sm text-gray-700">National GeoAI Hackathon, India (2022)</p>
-    </div>
-    
-    <!-- Add more cards here -->
+🧮 JEE MAINS – 2013
+📘 Qualified in both Paper 1 and Paper 2
 
-  </div>
-
-  <!-- Academic Exams (as a sub-section) -->
-  <div class="mt-8">
-    <h3 class="text-xl font-bold mb-2">📚 National Level Exams</h3>
-    <ul class="list-disc ml-6 text-gray-800">
-      <li>GATE 2021 – Qualified</li>
-      <li>UPSC CSE – Mains Qualified (2019)</li>
-      <li>JEE Mains (2010)</li>
-    </ul>
-  </div>
-
-  <!-- School Achievements (optional collapsible) -->
-  <div class="mt-6">
-    <details class="bg-gray-50 p-4 rounded-md border">
-      <summary class="font-semibold cursor-pointer">🏫 School Achievements</summary>
-      <ul class="list-disc ml-6 mt-2 text-gray-800">
-        <li>Best Student of the Year – 2012</li>
-        <li>International Maths Olympiad – Gold Medal</li>
-        <li>Rank 1 – All India Art Competition</li>
-        <!-- Add more -->
-      </ul>
-    </details>
-  </div>
-</section>
+</div>
