@@ -6,7 +6,7 @@ subtitle: <a href='#'>Namaste! Om Ganpataye Namah!</a>. <br><p><i>I am observing
 
 profile:
   align: right
-  image: pic_3.jpg
+  image: pic_3_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Hi! That's me, nice to meet you. :)</p>

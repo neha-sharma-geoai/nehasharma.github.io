@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /courses/
+title: courses
+description: courses I'm involved in
 nav: true
 nav_order: 7
 
