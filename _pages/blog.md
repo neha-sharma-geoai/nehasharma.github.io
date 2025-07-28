@@ -18,7 +18,7 @@ pagination:
 <head>
 <style>
   .post img {
-    max-width: 50%;
+    max-width: 200px;
     height: auto;
   }
 </style>
