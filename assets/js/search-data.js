@@ -44,16 +44,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-awards",
+          title: "awards",
+          description: "By God&#39;s grace, I have received the following awards...",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/awards/";
           },
         },{id: "nav-courses",
           title: "courses",
-          description: "courses I&#39;m involved in",
+          description: "We conduct these courses in online and offline modes. For more information, contact - neha845sharma@yahoo.com",
           section: "Navigation",
           handler: () => {
             window.location.href = "/courses/";

@@ -30,7 +30,7 @@ As the world progresses, `Remote Sensing and GIS` have become powerful, widely a
     <tr><td>Day 4</td><td>Attribute Data and Spatial Queries</td></tr>
     <tr><td>Day 5</td><td>Geoprocessing Tools & Map Design</td></tr>
     <tr><td>Day 6</td><td>Introduction to Remote Sensing</td></tr>
-    <tr><td>Day 7</td><td>Image Classification – Supervised & Unsupervised</td></tr>
+    <tr><td>Day 7</td><td>Image Interpretation</td></tr>
     <tr><td>Day 8</td><td>Digital Elevation Models, Contours & Data Conversion</td></tr>
   </tbody>
 </table>
