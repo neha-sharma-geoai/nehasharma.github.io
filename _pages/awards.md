@@ -44,165 +44,213 @@ nav_order: 6
 </head>
 <body>
 
-  <h2>🏆 Awards, Scholarships and Achievements</h2>
+  <h2>Awards, Scholarships and Achievements</h2>
 
   <div class="award-card">
   <div class="award-text">
     <h3>🏆 Outstanding Achiever Award</h3>
     <p><strong>In MS in Data Science</strong></p>
     <p>Awarded by Liverpool John Moores University, UK</p>
-    <p>On May 2025.</p>
+    <p>In May 2025.</p>
   </div>
   <div class="award-image">
     <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
   </div>
 </div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>MindFest 2022 Hackathon Winner</h3>
-      <p>ServiceNow Platform Hackathon, Mindtree – July 2022, Bangalore. Awarded by CEO Debashish Chatterjee.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/trophy-emoji.png" alt="Hackathon" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 MindFest 2022 Hackathon Winner</h3>
+    <p><strong>In ServiceNow Platform Hackathon</strong></p>
+    <p>Awarded by Mindtree</p>
+    <p>In July 2022</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>GICEA Gold Medal</h3>
-      <p>By Gujarat Institute of Civil Engineers and Architects – April 2022 for M. Tech Geomatics performance.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/1st-place-medal-emoji.png" alt="Gold Medal" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 GICEA Gold Medal</h3>
+    <p><strong>In MTech Geomatics</strong></p>
+    <p>Awarded by Gujarat Institute of Civil Engineers and Architects</p>
+    <p>In April 2022</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>Game Changer Team Award</h3>
-      <p>Mindtree NxT Hackathon 2021 – Innovative idea on city cleanliness and GeoAI.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/sparkles.png" alt="Sparkles" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Game Changer Team Award</h3>
+    <p><strong>In Mindtree NxT Hackathon 2021</strong></p>
+    <p>Awarded by Mindtree NxT for Innovative idea on city cleanliness and GeoAI</p>
+    <p>In December 2021</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>Academic Excellence Award</h3>
-      <p>Best academic performance during M. Tech Geomatics at CEPT University.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/mortar-board.png" alt="Academic Excellence" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Academic Excellence Award</h3>
+    <p><strong>In M.Tech Geomatics</strong></p>
+    <p>Awarded by CEPT University</p>
+    <p>In January 2021</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>Best Capstone Project Award</h3>
-      <p>Thesis Project (2018–20), M. Tech in Geomatics, CEPT University.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/scroll-emoji.png" alt="Capstone" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Best Capstone Project Award</h3>
+    <p><strong>In Thesis Project (2018–20), M.Tech Geomatics</strong></p>
+    <p>Awarded by CEPT University</p>
+    <p>In January 2021</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>Distinguished Student Award</h3>
-      <p>Overall academics and extracurriculars – M. Tech in Geomatics, CEPT University.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/star.png" alt="Star" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Distinguished Student Award</h3>
+    <p><strong>In Overall academics and extracurriculars, M.Tech Geomatics</strong></p>
+    <p>Awarded by CEPT University</p>
+    <p>In January 2021</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>Geomatics Program Ambassador</h3>
-      <p>First ever Ambassador for Geomatics Program, CEPT University – 2020.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/megaphone.png" alt="Ambassador" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Geomatics Program Ambassador</h3>
+    <p><strong>First Ambassador for Geomatics Program, M.Tech Geomatics</strong></p>
+    <p>Awarded by CEPT University</p>
+    <p>In January 2020</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>GIS E-Quiz – National Level</h3>
-      <p>Organized by CQube CADD Solutions, Hyderabad – July 13, 2020.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="Quiz" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Best Studio Portfolio</h3>
+    <p><strong>GIS – Foundation Studio, M.Tech Geomatics</strong></p>
+    <p>Awarded by CEPT University</p>
+    <p>In December 2018</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>Best Studio Portfolio</h3>
-      <p>GIS – Foundation Studio, CEPT University – December 2018.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/pencil.png" alt="Portfolio" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Merit Scholarship</h3>
+    <p><strong>Tuition fee waiver for 2nd rank in PG Entrance (Geomatics)</strong></p>
+    <p>Awarded by CEPT University</p>
+    <p>In June 2018</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>Merit Scholarship</h3>
-      <p>50% tuition fee waiver for 2nd rank in PG Entrance (Geomatics) – May 2018.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/money-mouth-face.png" alt="Scholarship" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Best Student of the Year</h3>
+    <p><strong>Excellence in Math Section</strong></p>
+    <p>Awarded by Carmel Convent School, Gwalior</p>
+    <p>In January 2012</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>Best Student of the Year</h3>
-      <p>Carmel Convent School, Gwalior – January 2012 for excellence in Math.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/books.png" alt="Best Student" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Poster Making Winner</h3>
+    <p><strong>Theme: Reducing Alcohol Consumption</strong></p>
+    <p>Awarded by Carmel Convent School, Gwalior</p>
+    <p>In 2007</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>Poster Making Winner</h3>
-      <p>Theme: Reducing Alcohol Consumption – Carmel Convent School – 2007.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/art.png" alt="Poster" />
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Landscaping Competition – Runner Up</h3>
+    <p>Awarded by Carmel Convent School, Gwalior</p>
+    <p>In 2003</p>
   </div>
-
-  <div class="card">
-    <div class="card-content">
-      <h3>3-Legged Race – Runner Up</h3>
-      <p>Carmel Convent School – 2004.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/runner.png" alt="Race" />
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
   </div>
-
-  <div class="card">
-    <div class="card-content">
-      <h3>Landscaping Competition – Runner Up</h3>
-      <p>Carmel Convent School – 2003.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/deciduous-tree.png" alt="Landscaping" />
-  </div>
+</div>
 
   <h2>📚 National Exams Qualified</h2>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>GATE 2022 – Geomatics</h3>
-      <p>All India Rank: 171 | Organized by IIT Kharagpur.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/bar-chart-emoji.png" alt="GATE" />
+  <div class="award-card">
+  <div class="award-text">
+    <h3>🏆 GATE 2022 – Geomatics</h3>
+    <p><strong>All India Rank: 171</strong></p>
+    <p>Organized by IIT Kharagpur</p>
+    <p>In 2022</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>National JRF Eligibility Test (JET)</h3>
-      <p>Conducted by ISRO-IIRS – March 2021. First national test for Geomatics scholars.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/satellite.png" alt="JET" />
+  <div class="award-card">
+  <div class="award-text">
+    <h3>🏆 National JRF Eligibility Test (JET)</h3>
+    <p><strong>Qualified</strong></p>
+    <p>Conducted for first time by ISRO-IIRS in Dehradun</p>
+    <p>In 2021</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>CEPT PG Entrance Exam</h3>
-      <p>Geomatics Rank: AIR-2 | Held in May 2018.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/chart-increasing.png" alt="CEPT Rank" />
+  <div class="award-card">
+  <div class="award-text">
+    <h3>🏆 CEPT PG Entrance Exam</h3>
+    <p><strong>Geomatics Rank: AIR-2</strong></p>
+    <p>Conducted by CEPT University in Ahmedabad</p>
+    <p>In June 2018</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>JEE Mains 2013</h3>
-      <p>PAPER 1 & 2 qualified.</p>
-    </div>
-    <img src="https://img.icons8.com/emoji/48/books-emoji.png" alt="JEE" />
+  <div class="award-card">
+  <div class="award-text">
+    <h3>🏆 JEE Mains 2012 & 2013</h3>
+    <p><strong>Qualified PAPER 1 & 2</strong></p>
+    <p>Conducted by Central Board of Secondary Education (CBSE)</p>
+    <p>In 2012 and 2013</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
+
 
 </body>
 </html>
