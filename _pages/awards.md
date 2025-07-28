@@ -13,65 +13,50 @@ nav_order: 6
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Awards & Achievements</title>
   <style>
-    body {
-      font-family: system-ui, sans-serif;
-      margin: 20px;
-      padding: 0;
-      background-color: #fff;
-      color: #222;
-    }
+ .award-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f9f9f9;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 4px 4px 10px #d1d9e6, -4px -4px 10px #ffffff; /* Neumorphic effect */
+}
 
-    h2 {
-      margin-top: 40px;
-      font-size: 1.8rem;
-    }
+.award-text {
+  flex: 1;
+  font-family: 'Segoe UI', sans-serif;
+}
 
-    .card {
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      padding: 16px;
-      margin-bottom: 16px;
-      background-color: #f9f9f9;
-    }
+.award-image {
+  flex-shrink: 0;
+  margin-left: 20px;
+}
 
-    .card-content {
-      flex: 1;
-    }
-
-    .card-content h3 {
-      margin: 0;
-      font-size: 1.1rem;
-    }
-
-    .card-content p {
-      margin: 8px 0 0 0;
-      font-size: 0.95rem;
-    }
-
-    .card img {
-      width: 48px;
-      height: 48px;
-      object-fit: contain;
-      margin-left: 16px;
-    }
+.award-image img {
+  max-width: 120px;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
   </style>
 </head>
 <body>
 
   <h2>🏆 Awards, Scholarships and Achievements</h2>
 
-  <div class="card">
-    <div class="card-content">
-      <h3>Outstanding Achiever Award</h3>
-      <p>In MS in Data Science </p>
-      <p>Awarded by Liverpool John Moores University, UK </p>
-      <p>On May 2025.</p>
-    </div>
-    <img src="/assets/img/awards/ljmuaward.png" alt="Trophy" />
+  <div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Outstanding Achiever Award</h3>
+    <p><strong>In MS in Data Science</strong></p>
+    <p>Awarded by Liverpool John Moores University, UK</p>
+    <p>On May 2025.</p>
   </div>
+  <div class="award-image">
+    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+  </div>
+</div>
 
   <div class="card">
     <div class="card-content">
