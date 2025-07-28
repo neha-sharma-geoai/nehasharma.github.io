@@ -7,38 +7,60 @@ nav: true
 nav_order: 6
 ---
 
-<section id="awards">
-  <h2>Awards, Scholarships, and Achievements</h2>
-  <ul>
-    <li><strong>Outstanding Achiever Award</strong> in MS in Data Science by Liverpool John Moores University, UK — <em>May 2025</em></li>
-    <li><strong>Winner</strong> in MindFest 2022 – ServiceNow Platform Hackathon, <em>July 2022</em> at Mindtree, Bangalore. Awarded by CEO and MD Mr. Debashish Chatterjee.</li>
-    <li><strong>GICEA Gold Medal</strong> by Gujarat Institute of Civil Engineers and Architects — <em>April 2022</em>. Honored by Ex-MP Shri Surendra Patel for academic performance in M.Tech Geomatics.</li>
-    <li><strong>Game Changer Team Award</strong> – Mindtree NxT Hackathon 2021 for GeoAI-based city cleanliness innovation — <em>December 2021</em></li>
-    <li><strong>Academic Excellence Award</strong> – M. Tech in Geomatics, CEPT University</li>
-    <li><strong>Best Capstone Project Award</strong> – Thesis Project (2018–2020), CEPT University</li>
-    <li><strong>Distinguished Student Award</strong> – For excellence in academics and extracurriculars, CEPT University</li>
-    <li><strong>Program Ambassador 2020</strong> – First Geomatics Ambassador at CEPT University</li>
-    <li><strong>National GIS E-Quiz Qualifier</strong> – CQube CADD Solutions, Hyderabad — <em>July 2020</em></li>
-    <li><strong>Best Studio Portfolio</strong> – Geographic Information Science Foundation Studio, <em>Semester 1, 2018</em></li>
-    <li><strong>Merit Scholarship</strong> – 50% tuition fee waiver for 2nd rank in CEPT PG Entrance Exam, Geomatics — <em>May 2018</em></li>
-    <li><strong>Best Student of the Year 2012</strong> – Carmel Convent School, Gwalior — <em>Maths Section</em></li>
-    <li><strong>Winner</strong> – Poster Making Competition on "Reducing Alcohol Consumption", Carmel Convent School — <em>2007</em></li>
-    <li><strong>1st Runner-up</strong> – 3-legged Race, <em>2004</em> & Landscaping Competition, <em>2003</em>, Carmel Convent School, Gwalior</li>
-  </ul>
-</section>
+<section class="p-6 bg-white">
+  <h2 class="text-2xl font-bold mb-4">🏆 Awards & Achievements</h2>
 
-<section id="exams">
-  <h2>National Exams Qualified</h2>
-  <ul>
-    <li><strong>GATE 2022 (Geomatics Engineering)</strong> – IIT Kharagpur<br>
-      <em>All India Rank (AIR): 171</em>
-    </li>
-    <li><strong>JRF Eligibility Test (JET) 2020</strong> – Indian Institute of Remote Sensing (IIRS), ISRO<br>
-      <em>Held on 21st March 2021 – First National JRF test in Geomatics</em>
-    </li>
-    <li><strong>CEPT University PG Entrance Exam 2018</strong> – Geomatics<br>
-      <em>All India Rank (AIR): 2</em>
-    </li>
-    <li><strong>JEE MAINS 2013</strong> – Paper 1 and Paper 2</li>
-  </ul>
+  <!-- Academic Awards -->
+  <div class="grid md:grid-cols-2 gap-4">
+    
+    <!-- Card 1 -->
+    <div class="bg-gradient-to-br from-blue-100 to-blue-50 p-4 rounded-xl shadow-md border">
+      <h3 class="text-lg font-semibold">🎓 Outstanding Achiever – MS Data Science</h3>
+      <p class="text-sm text-gray-700">Liverpool John Moores University, 2025</p>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="bg-gradient-to-br from-green-100 to-green-50 p-4 rounded-xl shadow-md border">
+      <h3 class="text-lg font-semibold">🌐 Hackathon Winner – MindFest 2022</h3>
+      <p class="text-sm text-gray-700">National Hackathon on ServiceNow, Bangalore</p>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="bg-gradient-to-br from-yellow-100 to-yellow-50 p-4 rounded-xl shadow-md border">
+      <h3 class="text-lg font-semibold">🏅 2nd Prize – Designathon 2022</h3>
+      <p class="text-sm text-gray-700">CEPT University (AI + Design)</p>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="bg-gradient-to-br from-pink-100 to-pink-50 p-4 rounded-xl shadow-md border">
+      <h3 class="text-lg font-semibold">🎖️ 1st Prize – GeoAI Hackathon</h3>
+      <p class="text-sm text-gray-700">National GeoAI Hackathon, India (2022)</p>
+    </div>
+    
+    <!-- Add more cards here -->
+
+  </div>
+
+  <!-- Academic Exams (as a sub-section) -->
+  <div class="mt-8">
+    <h3 class="text-xl font-bold mb-2">📚 National Level Exams</h3>
+    <ul class="list-disc ml-6 text-gray-800">
+      <li>GATE 2021 – Qualified</li>
+      <li>UPSC CSE – Mains Qualified (2019)</li>
+      <li>JEE Mains (2010)</li>
+    </ul>
+  </div>
+
+  <!-- School Achievements (optional collapsible) -->
+  <div class="mt-6">
+    <details class="bg-gray-50 p-4 rounded-md border">
+      <summary class="font-semibold cursor-pointer">🏫 School Achievements</summary>
+      <ul class="list-disc ml-6 mt-2 text-gray-800">
+        <li>Best Student of the Year – 2012</li>
+        <li>International Maths Olympiad – Gold Medal</li>
+        <li>Rank 1 – All India Art Competition</li>
+        <!-- Add more -->
+      </ul>
+    </details>
+  </div>
 </section>
