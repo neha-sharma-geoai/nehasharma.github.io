@@ -14,7 +14,7 @@ profiles:
     content: course1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Poster of first session of the course</p>
+      <p>Poster of first session of our course</p>
   - align: left
     image: prof_pic.jpg
     content: course1.md
