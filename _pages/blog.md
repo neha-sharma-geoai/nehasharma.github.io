@@ -15,31 +15,14 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
 ---
+<head>
 <style>
-  img.card-img {
+  .post img {
     max-width: 100%;
     height: auto;
-    border-radius: 6px;
-  }
-
-  .external-post-image img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    display: block;
-    margin-top: 10px;
-  }
-
-  @media (min-width: 768px) {
-    .external-post-image img {
-      max-width: 250px;
-      height: auto;
-      float: right;
-      margin-left: 15px;
-    }
   }
 </style>
-
+</head>
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
@@ -202,11 +185,11 @@ pagination:
 
 </div>
 
-<div class="col-sm-3 external-post-image">
-  <img src="{{ post.thumbnail }}" alt="image">
+  <div class="col-sm-3">
+    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
+  </div>
 </div>
 {% endif %}
-
     </li>
 
     {% endfor %}
