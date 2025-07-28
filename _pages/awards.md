@@ -7,45 +7,121 @@ nav: true
 nav_order: 6
 ---
 
-<section class="py-10 px-4 md:px-10 lg:px-20 bg-[#f0f0f3]">
-  <h2 class="text-3xl font-bold mb-6 text-center">🏆 Awards, Scholarships & Achievements</h2>
-  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-    
-    <!-- Card 1 -->
-    <div class="rounded-2xl p-5 shadow-[8px_8px_16px_#d1d9e6,-8px_-8px_16px_#ffffff] bg-[#f0f0f3]">
-      <h3 class="text-xl font-semibold mb-2">🎓 Outstanding Achiever</h3>
-      <p class="text-sm text-gray-600">Liverpool John Moores University, UK – May 2025<br>For exceptional performance in the MS Data Science program.</p>
-    </div>
+<style>
+  body {
+    background: #e0e5ec;
+    font-family: 'Segoe UI', sans-serif;
+    padding: 30px;
+    color: #333;
+  }
 
-    <!-- Card 2 -->
-    <div class="rounded-2xl p-5 shadow-[8px_8px_16px_#d1d9e6,-8px_-8px_16px_#ffffff] bg-[#f0f0f3]">
-      <h3 class="text-xl font-semibold mb-2">🧠 Hackathon Winner</h3>
-      <p class="text-sm text-gray-600">MindFest 2022 – Bangalore | July 2022<br>Recognized by Mindtree CEO for ServiceNow platform innovation.</p>
-    </div>
+  .award-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #e0e5ec;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px #babecc, -10px -10px 20px #ffffff;
+    padding: 25px;
+    margin-bottom: 30px;
+    transition: transform 0.3s ease;
+    flex-wrap: wrap;
+  }
 
-    <!-- Card 3 -->
-    <div class="rounded-2xl p-5 shadow-[8px_8px_16px_#d1d9e6,-8px_-8px_16px_#ffffff] bg-[#f0f0f3]">
-      <h3 class="text-xl font-semibold mb-2">🥇 GICEA Gold Medal</h3>
-      <p class="text-sm text-gray-600">Academic Excellence – M.Tech Geomatics, CEPT University<br>Received from Ex-MP Shri Surendra Patel (Apr 2022)</p>
-    </div>
+  .award-card:hover {
+    transform: scale(1.02);
+  }
 
-    <!-- Card 4 -->
-    <div class="rounded-2xl p-5 shadow-[8px_8px_16px_#d1d9e6,-8px_-8px_16px_#ffffff] bg-[#f0f0f3]">
-      <h3 class="text-xl font-semibold mb-2">🌐 Game Changer Team</h3>
-      <p class="text-sm text-gray-600">Mindtree NxT Hackathon – Dec 2021<br>GeoAI project on urban cleanliness solution.</p>
-    </div>
+  .award-text {
+    flex: 1 1 60%;
+    padding-right: 20px;
+  }
 
-    <!-- Card 5 -->
-    <div class="rounded-2xl p-5 shadow-[8px_8px_16px_#d1d9e6,-8px_-8px_16px_#ffffff] bg-[#f0f0f3]">
-      <h3 class="text-xl font-semibold mb-2">🏅 Academic Excellence</h3>
-      <p class="text-sm text-gray-600">Best academic record in M.Tech Geomatics<br>CEPT University</p>
-    </div>
+  .award-text h3 {
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    color: #1a1a1a;
+  }
 
-    <!-- Card 6 -->
-    <div class="rounded-2xl p-5 shadow-[8px_8px_16px_#d1d9e6,-8px_-8px_16px_#ffffff] bg-[#f0f0f3]">
-      <h3 class="text-xl font-semibold mb-2">🏆 Best Capstone Project</h3>
-      <p class="text-sm text-gray-600">Thesis project (2018–2020) – CEPT University<br>M.Tech Geomatics</p>
-    </div>
+  .award-text p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
 
+  .award-image {
+    flex: 1 1 35%;
+    text-align: right;
+  }
+
+  .award-image img {
+    max-width: 180px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.1);
+  }
+
+  @media (max-width: 768px) {
+    .award-card {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .award-text, .award-image {
+      flex: 100%;
+      padding: 0;
+    }
+
+    .award-image {
+      margin-top: 20px;
+    }
+  }
+</style>
+
+<div class="award-card">
+  <div class="award-text">
+    <h3>🌟 Outstanding Achiever Award – LJMU & upGrad MS in Data Science</h3>
+    <p>Recognized for academic excellence and real-world impact through applied AI/ML projects during the Master's program.</p>
   </div>
-</section>
+  <div class="award-image">
+    <img src="images/award1.png" alt="Outstanding Achiever Award">
+  </div>
+</div>
+
+<div class="award-card">
+  <div class="award-text">
+    <h3>🏆 Esri India Young Scholar Award</h3>
+    <p>Honored by Esri India for innovative GIS solutions and research contributions among nationwide scholars.</p>
+  </div>
+  <div class="award-image">
+    <img src="images/award2.png" alt="Young Scholar Award">
+  </div>
+</div>
+
+<div class="award-card">
+  <div class="award-text">
+    <h3>📌 Smart India Hackathon Finalist</h3>
+    <p>Selected as a finalist for proposing cutting-edge geospatial solutions for real-world governance challenges in India.</p>
+  </div>
+  <div class="award-image">
+    <img src="images/award3.png" alt="SIH Finalist">
+  </div>
+</div>
+
+<div class="award-card">
+  <div class="award-text">
+    <h3>🎓 GATE Scholar – MTech in Geomatics (CEPT University)</h3>
+    <p>Qualified GATE with distinction and secured admission in CEPT's elite Geomatics program with a scholarship.</p>
+  </div>
+  <div class="award-image">
+    <img src="images/award4.png" alt="GATE Scholar">
+  </div>
+</div>
+
+<div class="award-card">
+  <div class="award-text">
+    <h3>📚 Best Thesis Award – NIT Bhopal (B.Arch)</h3>
+    <p>Conferred for exceptional undergraduate thesis focusing on urban waterfront redevelopment using sustainable design principles.</p>
+  </div>
+  <div class="award-image">
+    <img src="images/award5.png" alt="Best Thesis Award">
+  </div>
+</div>
