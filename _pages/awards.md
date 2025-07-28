@@ -7,7 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -67,9 +66,11 @@ nav_order: 6
   <div class="card">
     <div class="card-content">
       <h3>Outstanding Achiever Award</h3>
-      <p>MS in Data Science by Liverpool John Moores University, UK – May 2025.</p>
+      <p>In MS in Data Science </p>
+      <p>Awarded by Liverpool John Moores University, UK </p>
+      <p>On May 2025.</p>
     </div>
-    <img src="https://img.icons8.com/emoji/48/trophy-emoji.png" alt="Trophy" />
+    <img src="assets\img\awards\ljmuaward.png" alt="Trophy" />
   </div>
 
   <div class="card">
