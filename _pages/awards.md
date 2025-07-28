@@ -70,7 +70,7 @@ nav_order: 6
       <p>Awarded by Liverpool John Moores University, UK </p>
       <p>On May 2025.</p>
     </div>
-    <img src="assets\img\awards\ljmuaward.png" alt="Trophy" />
+    <img src="assets/img/awards/ljmuaward.png" alt="Trophy" />
   </div>
 
   <div class="card">
