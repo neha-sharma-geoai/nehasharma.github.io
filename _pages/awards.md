@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/
-title: awards
+permalink: /achievements/
+title: achievements
 description: By God's grace, I have received the following awards...
 nav: true
 nav_order: 6
@@ -65,6 +65,56 @@ nav_order: 6
   </style>
 </head>
 <body>
+
+  <h2>📚 National Exams Qualified</h2>
+
+  <div class="award-card">
+  <div class="award-text">
+    <h3>🗺️ GATE 2022 – Geomatics</h3>
+    <p><strong>All India Rank: 171</strong></p>
+    <p>Organized by IIT Kharagpur</p>
+    <p>In 2022</p>
+  </div>
+  <div class="award-image">
+    <img src="{{ site.baseurl }}/assets/img/awards/20211217150844.jpg" alt="Award Trophy">
+  </div>
+</div>
+
+  <div class="award-card">
+  <div class="award-text">
+    <h3>🗺️ National JRF Eligibility Test (JET)</h3>
+    <p><strong>Qualified</strong></p>
+    <p>Conducted for first time by ISRO-IIRS in Dehradun</p>
+    <p>In 2021</p>
+  </div>
+  <div class="award-image">
+    <img src="{{ site.baseurl }}/assets/img/awards/favicon.ico" alt="Award Trophy">
+  </div>
+</div>
+
+  <div class="award-card">
+  <div class="award-text">
+    <h3>🗺️ CEPT PG Entrance Exam</h3>
+    <p><strong>Geomatics Rank: AIR-2</strong></p>
+    <p>Conducted by CEPT University in Ahmedabad</p>
+    <p>In June 2018</p>
+  </div>
+  <div class="award-image">
+    <img src="{{ site.baseurl }}/assets/img/awards/CEPT_new_logo.png" alt="Award Trophy">
+  </div>
+</div>
+
+  <div class="award-card">
+  <div class="award-text">
+    <h3>🗺️ JEE Mains 2012 & 2013</h3>
+    <p><strong>Qualified PAPER 1 & 2</strong></p>
+    <p>Conducted by Central Board of Secondary Education (CBSE)</p>
+    <p>In 2012 and 2013</p>
+  </div>
+  <div class="award-image">
+    <img src="{{ site.baseurl }}/assets/img/awards/jee.png" alt="Award Trophy">
+  </div>
+</div>
 
   <h2>Awards, Scholarships and Achievements</h2>
 
@@ -222,57 +272,6 @@ nav_order: 6
     <img src="{{ site.baseurl }}/assets/img/awards/giorgio-trovato-_XTY6lD8jgM-unsplash.jpg" alt="Award Trophy">
   </div>
 </div>
-
-  <h2>📚 National Exams Qualified</h2>
-
-  <div class="award-card">
-  <div class="award-text">
-    <h3>🗺️ GATE 2022 – Geomatics</h3>
-    <p><strong>All India Rank: 171</strong></p>
-    <p>Organized by IIT Kharagpur</p>
-    <p>In 2022</p>
-  </div>
-  <div class="award-image">
-    <img src="{{ site.baseurl }}/assets/img/awards/20211217150844.jpg" alt="Award Trophy">
-  </div>
-</div>
-
-  <div class="award-card">
-  <div class="award-text">
-    <h3>🗺️ National JRF Eligibility Test (JET)</h3>
-    <p><strong>Qualified</strong></p>
-    <p>Conducted for first time by ISRO-IIRS in Dehradun</p>
-    <p>In 2021</p>
-  </div>
-  <div class="award-image">
-    <img src="{{ site.baseurl }}/assets/img/awards/favicon.ico" alt="Award Trophy">
-  </div>
-</div>
-
-  <div class="award-card">
-  <div class="award-text">
-    <h3>🗺️ CEPT PG Entrance Exam</h3>
-    <p><strong>Geomatics Rank: AIR-2</strong></p>
-    <p>Conducted by CEPT University in Ahmedabad</p>
-    <p>In June 2018</p>
-  </div>
-  <div class="award-image">
-    <img src="{{ site.baseurl }}/assets/img/awards/CEPT_new_logo.png" alt="Award Trophy">
-  </div>
-</div>
-
-  <div class="award-card">
-  <div class="award-text">
-    <h3>🗺️ JEE Mains 2012 & 2013</h3>
-    <p><strong>Qualified PAPER 1 & 2</strong></p>
-    <p>Conducted by Central Board of Secondary Education (CBSE)</p>
-    <p>In 2012 and 2013</p>
-  </div>
-  <div class="award-image">
-    <img src="{{ site.baseurl }}/assets/img/awards/jee.png" alt="Award Trophy">
-  </div>
-</div>
-
 
 </body>
 </html>
