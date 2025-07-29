@@ -94,7 +94,7 @@ nav_order: 6
 
 <div class="award-card">
   <div class="award-text">
-    <h3>🏆 GICEA Gold Medal</h3>
+    <h3>🥇 GICEA Gold Medal</h3>
     <p><strong>In MTech Geomatics</strong></p>
     <p>Awarded by Gujarat Institute of Civil Engineers and Architects</p>
     <p>In April 2022</p>
@@ -106,7 +106,7 @@ nav_order: 6
 
 <div class="award-card">
   <div class="award-text">
-    <h3>🏆 Game Changer Team Award</h3>
+    <h3>💻 Game Changer Team Award</h3>
     <p><strong>In Mindtree NxT Hackathon 2021</strong></p>
     <p>Awarded by Mindtree NxT for Innovative idea on city cleanliness and GeoAI</p>
     <p>In December 2021</p>
@@ -118,7 +118,7 @@ nav_order: 6
 
 <div class="award-card">
   <div class="award-text">
-    <h3>🏆 Academic Excellence Award</h3>
+    <h3>🌍 Academic Excellence Award</h3>
     <p><strong>In M.Tech Geomatics</strong></p>
     <p>Awarded by CEPT University</p>
     <p>In January 2021</p>
@@ -130,7 +130,7 @@ nav_order: 6
 
 <div class="award-card">
   <div class="award-text">
-    <h3>🏆 Best Capstone Project Award</h3>
+    <h3>🌍 Best Capstone Project Award</h3>
     <p><strong>In Thesis Project (2018–20), M.Tech Geomatics</strong></p>
     <p>Awarded by CEPT University</p>
     <p>In January 2021</p>
@@ -142,7 +142,7 @@ nav_order: 6
 
 <div class="award-card">
   <div class="award-text">
-    <h3>🏆 Distinguished Student Award</h3>
+    <h3>🌍 Distinguished Student Award</h3>
     <p><strong>In Overall academics and extracurriculars, M.Tech Geomatics</strong></p>
     <p>Awarded by CEPT University</p>
     <p>In January 2021</p>
@@ -154,7 +154,7 @@ nav_order: 6
 
 <div class="award-card">
   <div class="award-text">
-    <h3>🏆 Geomatics Program Ambassador</h3>
+    <h3>🌍 Geomatics Program Ambassador</h3>
     <p><strong>First Ambassador for Geomatics Program, M.Tech Geomatics</strong></p>
     <p>Awarded by CEPT University</p>
     <p>In January 2020</p>
@@ -166,7 +166,7 @@ nav_order: 6
 
 <div class="award-card">
   <div class="award-text">
-    <h3>🏆 Best Studio Portfolio</h3>
+    <h3>🎨 Best Studio Portfolio</h3>
     <p><strong>GIS – Foundation Studio, M.Tech Geomatics</strong></p>
     <p>Awarded by CEPT University</p>
     <p>In December 2018</p>
@@ -202,7 +202,7 @@ nav_order: 6
 
 <div class="award-card">
   <div class="award-text">
-    <h3>🏆 Poster Making Winner</h3>
+    <h3>🎨 Poster Making Winner</h3>
     <p><strong>Theme: Reducing Alcohol Consumption</strong></p>
     <p>Awarded by Carmel Convent School, Gwalior</p>
     <p>In 2007</p>
@@ -214,7 +214,7 @@ nav_order: 6
 
 <div class="award-card">
   <div class="award-text">
-    <h3>🏆 Landscaping Competition – Runner Up</h3>
+    <h3>🎨 Landscaping Competition – Runner Up</h3>
     <p>Awarded by Carmel Convent School, Gwalior</p>
     <p>In 2003</p>
   </div>
@@ -227,7 +227,7 @@ nav_order: 6
 
   <div class="award-card">
   <div class="award-text">
-    <h3>🏆 GATE 2022 – Geomatics</h3>
+    <h3>🗺️ GATE 2022 – Geomatics</h3>
     <p><strong>All India Rank: 171</strong></p>
     <p>Organized by IIT Kharagpur</p>
     <p>In 2022</p>
@@ -239,7 +239,7 @@ nav_order: 6
 
   <div class="award-card">
   <div class="award-text">
-    <h3>🏆 National JRF Eligibility Test (JET)</h3>
+    <h3>🗺️ National JRF Eligibility Test (JET)</h3>
     <p><strong>Qualified</strong></p>
     <p>Conducted for first time by ISRO-IIRS in Dehradun</p>
     <p>In 2021</p>
@@ -251,7 +251,7 @@ nav_order: 6
 
   <div class="award-card">
   <div class="award-text">
-    <h3>🏆 CEPT PG Entrance Exam</h3>
+    <h3>🗺️ CEPT PG Entrance Exam</h3>
     <p><strong>Geomatics Rank: AIR-2</strong></p>
     <p>Conducted by CEPT University in Ahmedabad</p>
     <p>In June 2018</p>
@@ -263,7 +263,7 @@ nav_order: 6
 
   <div class="award-card">
   <div class="award-text">
-    <h3>🏆 JEE Mains 2012 & 2013</h3>
+    <h3>🗺️ JEE Mains 2012 & 2013</h3>
     <p><strong>Qualified PAPER 1 & 2</strong></p>
     <p>Conducted by Central Board of Secondary Education (CBSE)</p>
     <p>In 2012 and 2013</p>

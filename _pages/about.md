@@ -24,6 +24,25 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<style>
+  .satellite-icon {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  animation: orbit 8s linear infinite;
+}
+@keyframes orbit {
+  0%   { transform: rotate(0deg) translateX(10px) rotate(0deg); }
+  100% { transform: rotate(360deg) translateX(10px) rotate(-360deg); }
+}
+</style>
+
+<div class="satellite-icon">
+  <!-- example SVG: simplified satellite dish -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="48" height="48" fill="#444">
+    <path d="M2 62l2-8  ..."></path>
+  </svg>
+</div>
 
 Neha Sharma is a GeoAI and remote sensing enthusiast with an interdisciplinary foundation in architecture, geomatics, and data science. Currently a Product Engineer II - Geospatial Data Science at [ESRI’s](https://www.esri.com/en-us/home) GeoAI R&D Center, Delhi, she specializes in developing innovative geospatial AI solutions for global challenges. Previously, she worked as a Software Engineer - GeoAI at [Larsen & Toubro](https://www.larsentoubro.com/) (L&T-NxT, Mindtree, [LTIMindtree](https://www.ltimindtree.com/)), Chennai, Tamil Nadu, contributing to transformative projects in one of India’s leading construction firms. 
 
