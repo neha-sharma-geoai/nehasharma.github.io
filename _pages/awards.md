@@ -13,33 +13,55 @@ nav_order: 6
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Awards & Achievements</title>
   <style>
- .award-card {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: #f9f9f9;
-  border-radius: 15px;
-  padding: 20px;
-  margin: 20px 0;
-  box-shadow: 4px 4px 10px #d1d9e6, -4px -4px 10px #ffffff; /* Neumorphic effect */
-}
+    .award-card {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: #f9f9f9;
+      border-radius: 15px;
+      padding: 20px;
+      margin: 20px 0;
+      box-shadow: 4px 4px 10px #d1d9e6, -4px -4px 10px #ffffff;
+    }
 
-.award-text {
-  flex: 1;
-  font-family: 'Segoe UI', sans-serif;
-}
+    .award-text {
+      flex: 1;
+      font-family: 'Segoe UI', sans-serif;
+    }
 
-.award-image {
-  flex-shrink: 0;
-  margin-left: 20px;
-}
+    .award-image {
+      flex-shrink: 0;
+      margin-left: 20px;
+    }
 
-.award-image img {
-  max-width: 120px;
-  height: auto;
-  object-fit: cover;
-  display: block;
-}
+    .award-image img {
+      max-width: 120px;
+      height: auto;
+      object-fit: cover;
+      display: block;
+    }
+
+    h2 {
+      text-align: center;
+      font-family: 'Segoe UI', sans-serif;
+      margin-top: 40px;
+    }
+
+    @media (max-width: 768px) {
+      .award-card {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .award-image {
+        margin-left: 0;
+        margin-top: 15px;
+      }
+
+      .award-image img {
+        max-width: 100px;
+      }
+    }
   </style>
 </head>
 <body>
@@ -54,7 +76,7 @@ nav_order: 6
     <p>In May 2025.</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/ljmuaward.png" alt="Award Trophy">
   </div>
 </div>
 
@@ -66,7 +88,7 @@ nav_order: 6
     <p>In July 2022</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/1658577742872.jpeg" alt="Award Trophy">
   </div>
 </div>
 
@@ -78,7 +100,7 @@ nav_order: 6
     <p>In April 2022</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/278224888_1341052933072223_6508304804216106539_n.jpg" alt="Award Trophy">
   </div>
 </div>
 
@@ -90,7 +112,7 @@ nav_order: 6
     <p>In December 2021</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/giorgio-trovato-_XTY6lD8jgM-unsplash.jpg" alt="Award Trophy">
   </div>
 </div>
 
@@ -102,7 +124,7 @@ nav_order: 6
     <p>In January 2021</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/ceptawards.jpeg" alt="Award Trophy">
   </div>
 </div>
 
@@ -114,7 +136,7 @@ nav_order: 6
     <p>In January 2021</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/ceptawards.jpeg" alt="Award Trophy">
   </div>
 </div>
 
@@ -126,7 +148,7 @@ nav_order: 6
     <p>In January 2021</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/ceptawards.jpeg" alt="Award Trophy">
   </div>
 </div>
 
@@ -138,7 +160,7 @@ nav_order: 6
     <p>In January 2020</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/giorgio-trovato-_XTY6lD8jgM-unsplash.jpg" alt="Award Trophy">
   </div>
 </div>
 
@@ -150,7 +172,7 @@ nav_order: 6
     <p>In December 2018</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/49344367_2217348065260044_279308882969362432_n.jpg" alt="Award Trophy">
   </div>
 </div>
 
@@ -162,7 +184,7 @@ nav_order: 6
     <p>In June 2018</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/giorgio-trovato-_XTY6lD8jgM-unsplash.jpg" alt="Award Trophy">
   </div>
 </div>
 
@@ -174,7 +196,7 @@ nav_order: 6
     <p>In January 2012</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/giorgio-trovato-_XTY6lD8jgM-unsplash.jpg" alt="Award Trophy">
   </div>
 </div>
 
@@ -186,7 +208,7 @@ nav_order: 6
     <p>In 2007</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/giorgio-trovato-_XTY6lD8jgM-unsplash.jpg" alt="Award Trophy">
   </div>
 </div>
 
@@ -197,7 +219,7 @@ nav_order: 6
     <p>In 2003</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/giorgio-trovato-_XTY6lD8jgM-unsplash.jpg" alt="Award Trophy">
   </div>
 </div>
 
@@ -211,7 +233,7 @@ nav_order: 6
     <p>In 2022</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/20211217150844.jpg" alt="Award Trophy">
   </div>
 </div>
 
@@ -223,7 +245,7 @@ nav_order: 6
     <p>In 2021</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/favicon.ico" alt="Award Trophy">
   </div>
 </div>
 
@@ -235,7 +257,7 @@ nav_order: 6
     <p>In June 2018</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/CEPT_new_logo.png" alt="Award Trophy">
   </div>
 </div>
 
@@ -247,7 +269,7 @@ nav_order: 6
     <p>In 2012 and 2013</p>
   </div>
   <div class="award-image">
-    <img src="/assets/img/awards/ljmuaward.png" alt="Award Trophy">
+    <img src="{{ site.baseurl }}/assets/img/awards/jee.png" alt="Award Trophy">
   </div>
 </div>
 
