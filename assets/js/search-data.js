@@ -44,12 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-awards",
-          title: "awards",
+        },{id: "nav-achievements",
+          title: "achievements",
           description: "By God&#39;s grace, I have received the following awards...",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/awards/";
+            window.location.href = "/achievements/";
           },
         },{id: "nav-courses",
           title: "courses",
