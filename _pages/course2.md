@@ -10,7 +10,7 @@ Following the success of GAP Level 1, the Level 2 training program delves deeper
   <li><strong>CoA-TRC, Bhopal & IEEE-GRSS Gujarat Chapter:</strong> Training held from 4th – 26th June 2022.</li>
 </ul>
 
-<h6>Key Topics Covered (Level 1)</h6>
+<h6>Key Topics Covered (Level 2)</h6>
 <table>
   <thead>
     <tr>
