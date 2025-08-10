@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-smart-buildings-and-cities-with-remote-sensing-and-gis-first-of-its-kind-global-volume-bridging",
+        },{id: "post-55-generative-ai-python-libraries-powering-llms-vision-and-voice",
+        
+          title: '55 Generative AI Python Libraries Powering LLMs, Vision, and Voice <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Explore the ultimate Python toolkit driving modern AI&amp;#x200A;&amp;#x2014;&amp;#x200A;from text to vision-language to voice, all in one place.Continue reading on Medium »",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@ns_geoai/the-genai-stack-50-python-libraries-powering-llms-vision-and-voice-c85828af5012?source=rss-15523201c57------2", "_blank");
+          
+        },
+      },{id: "post-smart-buildings-and-cities-with-remote-sensing-and-gis-first-of-its-kind-global-volume-bridging",
         
           title: 'Smart Buildings and Cities with Remote Sensing and GIS: First-of-Its-Kind Global Volume Bridging…... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -177,17 +188,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://medium.com/@ns_geoai/100-geospatial-artificial-intelligence-geoai-applications-e84e54a89f1f?source=rss-15523201c57------2", "_blank");
-          
-        },
-      },{id: "post-what-is-geoai",
-        
-          title: 'What is GeoAI? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@ns_geoai/what-is-geoai-90af81c6d17e?source=rss-15523201c57------2", "_blank");
           
         },
       },{id: "books-the-godfather",
