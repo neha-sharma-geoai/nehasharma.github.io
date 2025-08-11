@@ -58,9 +58,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-55-generative-ai-python-libraries-powering-llms-vision-and-voice",
+        },{id: "post-60-generative-ai-python-libraries-powering-llms-vision-and-voice",
         
-          title: '55 Generative AI Python Libraries Powering LLMs, Vision, and Voice <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '60+ Generative AI Python Libraries Powering LLMs, Vision, and Voice <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "Explore the ultimate Python toolkit driving modern AI&amp;#x200A;&amp;#x2014;&amp;#x200A;from text to vision-language to voice, all in one place.Continue reading on Medium »",
         section: "Posts",
