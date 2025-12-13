@@ -58,11 +58,66 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-60-generative-ai-python-libraries-powering-llms-vision-and-voice",
+        },{id: "post-3dcitydb-v-4-0-0-setup-guide-for-absolute-beginners-part-2",
+        
+          title: '3DCityDB (v 4.0.0) Setup Guide for Absolute Beginners (Part 2) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@ns_geoai/3dcitydb-v-4-0-0-setup-guide-for-absolute-beginners-part-2-21e50d8323c4?source=rss-15523201c57------2", "_blank");
+          
+        },
+      },{id: "post-30-digital-twin-software-platforms-to-know-in-2025-the-ultimate-breakdown",
+        
+          title: '30 Digital Twin Software Platforms to Know in 2025 — The Ultimate Breakdown <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@ns_geoai/30-digital-twin-software-platforms-to-know-in-2025-the-ultimate-breakdown-64ef3b542ce3?source=rss-15523201c57------2", "_blank");
+          
+        },
+      },{id: "post-digital-twin-foundations-part-1-where-cities-learn-think-amp-evolve",
+        
+          title: 'Digital Twin Foundations (Part 1): Where Cities Learn, Think, &amp; Evolve <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@ns_geoai/digital-twin-foundations-part-1-where-cities-learn-think-evolve-7ff61cfc369a?source=rss-15523201c57------2", "_blank");
+          
+        },
+      },{id: "post-openai-master-models-catalog-2022-2025",
+        
+          title: 'OpenAI Master Models Catalog (2022–2025) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "OpenAI is a leading artificial intelligence research and deployment company, founded in 2015 with the mission to ensure that artificial&amp;#x2026;Continue reading on Medium »",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@ns_geoai/openai-master-models-catalog-2022-2025-4c2049551cbb?source=rss-15523201c57------2", "_blank");
+          
+        },
+      },{id: "post-export-google-scholar-publications-in-bibtex-format-for-your-personal-website",
+        
+          title: 'Export Google Scholar Publications in BibTeX Format for Your Personal Website <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "A step-by-step guide to creating a clean, professional, and easy-to-update publications file using Google Scholar and BibTeX.Continue reading on Medium »",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@ns_geoai/export-google-scholar-publications-in-bibtex-format-for-your-personal-website-7ab1bfb17764?source=rss-15523201c57------2", "_blank");
+          
+        },
+      },{id: "post-60-generative-ai-python-libraries-powering-llms-vision-and-voice",
         
           title: '60+ Generative AI Python Libraries Powering LLMs, Vision, and Voice <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "Explore the ultimate Python toolkit driving modern AI&amp;#x200A;&amp;#x2014;&amp;#x200A;from text to vision-language to voice, all in one place.Continue reading on Medium »",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -73,7 +128,7 @@ ninja.data = [{
         
           title: 'Smart Buildings and Cities with Remote Sensing and GIS: First-of-Its-Kind Global Volume Bridging…... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "Edited by: Dr. Shiv Mohan, Dr. Navneet Munoth, Ar. Neha SharmaEdition: 1st Edition, 2025Publisher: Taylor &amp;amp; FrancisPublication Location&amp;#x2026;Continue reading on Medium »",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -133,61 +188,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://medium.com/@ns_geoai/custom-geospatial-dataloader-with-pytorch-and-rasterio-4f6d896ef441?source=rss-15523201c57------2", "_blank");
-          
-        },
-      },{id: "post-the-world-s-first-artificial-satellite",
-        
-          title: 'The World’s First Artificial Satellite <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@ns_geoai/the-worlds-first-artificial-satellite-d17324976a83?source=rss-15523201c57------2", "_blank");
-          
-        },
-      },{id: "post-deep-learning-terminologies-quick-revision",
-        
-          title: 'Deep Learning Terminologies — Quick Revision <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@ns_geoai/deep-learning-terminologies-quick-revision-7e9d88e1352f?source=rss-15523201c57------2", "_blank");
-          
-        },
-      },{id: "post-international-call-for-authors-smart-buildings-and-cities-with-remote-sensing-and-gis-submit-by",
-        
-          title: 'International Call for Authors: Smart Buildings and Cities with Remote Sensing and GIS:... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@ns_geoai/international-call-for-authors-smart-buildings-and-cities-with-remote-sensing-and-gis-submit-by-ba4a39b083f8?source=rss-15523201c57------2", "_blank");
-          
-        },
-      },{id: "post-70-geospatial-python-libraries",
-        
-          title: '70 Geospatial Python Libraries <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@ns_geoai/70-geospatial-python-libraries-54604d815a7b?source=rss-15523201c57------2", "_blank");
-          
-        },
-      },{id: "post-100-geospatial-artificial-intelligence-geoai-applications",
-        
-          title: '100+ Geospatial Artificial Intelligence (GeoAI) Applications <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@ns_geoai/100-geospatial-artificial-intelligence-geoai-applications-e84e54a89f1f?source=rss-15523201c57------2", "_blank");
           
         },
       },{id: "books-the-godfather",
